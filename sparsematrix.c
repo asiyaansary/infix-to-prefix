@@ -49,7 +49,8 @@ int main()
 		for(j=0;j<3;j++)
 		{
 			printf("%d",sparse[i][j]);
-			printf("\n");
 		}
+		printf("\n");
+		
 	}
 }
